@@ -1,0 +1,10 @@
+#ifndef DEF_REQUESTS_H
+
+#define DEF_REQUESTS_H
+#define AVAILABILITY_REQUEST 1
+#define PLACE_REQUEST 2
+#define REMOVE_REQUEST 3
+#define LIST_REQUEST 4
+#define NAME_REQUEST 5
+
+#endif
